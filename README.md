@@ -130,3 +130,13 @@ To efficiently secure web applications, follow these key steps:
 11. **Use a WAF**: Protect against malicious traffic in real-time.
 
 Prioritize continuous monitoring and regular updates to stay secure.
+
+
+
+
+
+
+Sources used --
+*GreeksforGreeks
+*Stackflow
+*Reddit

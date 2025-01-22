@@ -131,6 +131,10 @@ To efficiently secure web applications, follow these key steps:
 
 Prioritize continuous monitoring and regular updates to stay secure.
 
+![WhatsApp Image 2025-01-22 at 21 20 32](https://github.com/user-attachments/assets/b77e4c08-b379-42a9-acd5-cc4c8cf83bac)
+
+
+![Screenshot 2025-01-22 at 11 00 01 PM](https://github.com/user-attachments/assets/859b2f48-9f6f-4d57-a482-79dc4104aa95)
 
 
 
